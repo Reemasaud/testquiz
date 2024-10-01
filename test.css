@@ -1,0 +1,19 @@
+h1, footer{
+    background-color: green;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px ;
+}
+
+div {
+    border: 5px solid beige;
+    margin: 2px;
+}
+
+img {
+    width: 250px ;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
